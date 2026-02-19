@@ -1,1 +1,3 @@
-# como-comprar-0x-zrx
+[**Cómo comprar 0x (ZRX)**](https://topcryptoguide.com/como-comprar-0x-zrx/)
+
+Este artículo explica **cómo comprar el token de criptomoneda 0x (ZRX)**, un activo basado en Ethereum que sirve como token de utilidad y gobernanza para el protocolo 0x, una infraestructura descentralizada que facilita intercambios de tokens sin intermediarios centralizados. Para adquirir ZRX, normalmente se **crea una cuenta en un exchange que soporte este token como Binance o Coinbase**, se **depositan fondos (fiat o cripto)** y luego se compra ZRX a través de la plataforma de trading. Muchas plataformas también permiten comprar ZRX directamente con tarjeta de crédito/débito o stablecoins como USDT. Asegúrate de revisar comisiones y seguridad antes de completar la compra. :contentReference[oaicite:0]{index=0}
